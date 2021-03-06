@@ -4,4 +4,4 @@
 Rebase-practiceブランチで編集
 Rebase-practiceブランチ(conflict用)
 Rebase　pull用
-stash
+stash track
